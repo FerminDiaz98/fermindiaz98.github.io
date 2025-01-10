@@ -13,12 +13,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-canvas{
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-
 a {
   font-weight: 500;
   color: #646cff;
