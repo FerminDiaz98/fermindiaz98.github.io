@@ -1,1 +1,1 @@
-[fermindiaz.cl](www.fermindiaz.cl)
+[fermindiaz.cl](google.com)
